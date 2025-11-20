@@ -1,0 +1,10 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(41, 41, 41);
+    color: #ffffff;
+    margin: 20px;
+    text-align: center;
+    background-image: url("download.gif");
+    background-repeat: repeat;
+    cursor: url("cursor.png") 16 16, auto;
+}
