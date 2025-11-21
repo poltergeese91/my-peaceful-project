@@ -3,7 +3,7 @@ body {
     background-color: rgb(41, 41, 41);
     color: #ffffff;
     text-align: center;
-    background-image: url("images/download.gif");
+    background-image: url("images/background.gif");
     background-size: cover;
     cursor: url("images/cursor.png") 16 16, auto;
 }
